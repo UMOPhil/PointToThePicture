@@ -1,15 +1,14 @@
 #include <stdio.h>
 #include "canvasMake.h"
 
-int pickChar(){
 
 
-    return 90;
+
+static char charizardList[4] = {'f', 'i', 'r', 'e'};
+
+
+static char pickChar(char *charlisted, int size){
+
+    return 0;
 }
 
-
-
-
-
-
-int char_charlist[4] = {'z', 'a', 'g', '7'};
