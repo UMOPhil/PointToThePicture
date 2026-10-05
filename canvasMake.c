@@ -12,4 +12,4 @@ int pickChar(){
 
 
 
-char_charlist[4] = {'z', 'a', 'g', '7'};
+int char_charlist[4] = {'z', 'a', 'g', '7'};
